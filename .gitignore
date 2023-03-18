@@ -1,0 +1,16 @@
+*.pyc
+dev.settings
+test.settings
+test.env
+/.pytest_cache/
+.coverage
+/htmlcov/
+praw.ini
+wolfit_dev.db
+wolfit_test.db
+.vscode/
+.idea
+coverage.xml
+playground/
+*.env
+cov.sh
